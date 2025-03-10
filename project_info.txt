@@ -1,0 +1,12 @@
+# Project Update Log
+
+## Updates Made:
+1. **firebase.json**: 
+   - Created configuration file for Firebase emulators to set up Firestore on port 8080.
+
+2. **FirestoreService.ts**: 
+   - Enhanced error handling by logging only the error message for better clarity.
+
+## Next Steps:
+- Test the Firestore operations to ensure they work as expected.
+- Set up Firebase emulators for local testing.
